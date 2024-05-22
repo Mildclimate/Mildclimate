@@ -24,10 +24,10 @@
 
 ### Projects 📚
 
-- [About产品经理](https://github.com/Mildclimate/Mildclimate/blob/main/pages/pm.html)
-- [About前端开发](https://github.com/Mildclimate/Mildclimate/blob/main/pages/softE.html)
-- [About动画制作](https://github.com/Mildclimate/Mildclimate/blob/main/pages/animation.html)
-- [About日常思考](https://github.com/Mildclimate/Mildclimate/blob/main/pages/normal.html)
+- [About产品经理](https://mildclimate.github.io/Mildclimate/pages/pm.html)
+- [About前端开发](https://mildclimate.github.io/Mildclimate/pages/softE.html)
+- [About动画制作](https://mildclimate.github.io/Mildclimate/pages/animation.html)
+- [About日常思考](https://mildclimate.github.io/Mildclimate/pages/normal.html)
 
 ### What I want to do next :thinking:
 - 求职产品经理实习  🖥️
