@@ -12,7 +12,7 @@
 
 <img align="right" src="https://i.imgur.com/IyjFcq1.png" width="100px">
 
-<img align="right" alt="me" src="https://github.com/Mildclimate/Mildclimate/blob/main/static/9281716387044_.pic.jpg" width="400px" height="auto" />
+<img align="right" alt="me" src="https://github.com/Mildclimate/Mildclimate/blob/main/static/tianTan.jpg" width="400px" height="auto" />
 
 
 ### Things I am currently working on 🌱
