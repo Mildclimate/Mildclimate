@@ -22,7 +22,7 @@
 <li>看书ing</li>
 </ul>
 
-### Projects 📚
+### Portfolio 📚
 
 - [About产品经理](https://mildclimate.github.io/Mildclimate/pages/pm.html)
 - [About前端开发](https://mildclimate.github.io/Mildclimate/pages/softE.html)
