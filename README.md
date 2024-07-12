@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Xie Boheng! 🍊</h1>
+<h1 align="center">Hi, I'm Boheng Xie! 🍊</h1>
 
 ### About Me :wave:
 
@@ -15,9 +15,9 @@
 ### Things I am currently working on 🌱
 
 <ul>
-<li>全栈开发实习生</li>
+<li>Front-End Development Intern of Momenta</li>
 <li>学习产品经理知识</li>
-<li>看书ing</li>
+<li>看书/听课ing</li>
 </ul>
 
 ### Portfolio 📚
@@ -29,7 +29,7 @@
 
 ### What I want to do next :thinking:
 
-- 求职产品经理实习 🖥️
+- 求职产品经理or开发实习 🖥️
 - 大量学习 📚
 - 年轻人要走遍天下！ :rofl:
 
