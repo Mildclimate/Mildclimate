@@ -5,7 +5,6 @@
 <em>
 <h6>天大智能与计算学部动画专业本科 - 谢搏珩</h6>
 <p>喜欢做一些酷的事情，编程, 设计, 游戏, 创造</p>
-<del>喜欢不上班</del>
 </em>
 
 <img align="right" src="https://i.imgur.com/IyjFcq1.png" width="100px">
@@ -14,11 +13,13 @@
 
 ### Things I am currently working on 🌱
 
-<ul>
-<li>Front-End Development Intern of Momenta</li>
-<li>学习产品经理知识</li>
-<li>看书/听课ing</li>
-</ul>
+- [我的简历](./profile.md "简历") :o:
+  
+
+- Front-End Development Intern of Momenta
+- 学习产品经理知识
+- 看书/听课ing
+
 
 ### Portfolio 📚
 
