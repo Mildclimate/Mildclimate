@@ -4,7 +4,7 @@
 
 <em>
 <h6>天大智能与计算学部动画专业本科 - 谢搏珩</h6>
-<p>喜欢做一些酷的事情，编程, 设计, 游戏, 创造</p>
+<p>希望能在前端领域有所贡献</p>
 </em>
 
 <img align="right" src="https://i.imgur.com/IyjFcq1.png" width="100px">
@@ -13,26 +13,23 @@
 
 ### Things I am currently working on 🌱
 
-- [我的简历](./profile.md "简历") :o:
-  
+- [Boheng 的简历](./profile.md "简历") :o:
 
-- Front-End Development Intern of Momenta
-- 学习产品经理知识
-- 看书/听课ing
-
+- 准备 25 年春招
+- 刷 Leetcode
+- 学习前端知识
 
 ### Portfolio 📚
 
-- [About 产品经理](https://mildclimate.github.io/Mildclimate/pages/pm.html)
 - [About 前端开发](https://mildclimate.github.io/Mildclimate/pages/softE.html)
 - [About 动画制作](https://mildclimate.github.io/Mildclimate/pages/animation.html)
 - [About 日常思考](https://mildclimate.github.io/Mildclimate/pages/normal.html)
 
 ### What I want to do next :thinking:
 
-- 求职产品经理or开发实习 🖥️
-- 大量学习 📚
-- 年轻人要走遍天下！ :rofl:
+- 前端开发 🖥️
+- 游戏与动画 🎮
+- 绘画 🎨
 
 ---
 
