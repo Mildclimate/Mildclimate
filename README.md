@@ -3,8 +3,8 @@
 ### About Me :wave:
 
 <em>
-<h6>天大智能与计算学部动画专业本科 - 谢搏珩</h6>
-<p>希望能在前端领域有所贡献</p>
+<h6>天大本科-智算学部动画专业</h6>
+<p>喜欢coding,目前做前端</p>
 </em>
 
 <img align="right" src="https://i.imgur.com/IyjFcq1.png" width="100px">
@@ -14,10 +14,9 @@
 ### Things I am currently working on 🌱
 
 - [Boheng 的简历](./profile.md "简历") :o:
-
-- 准备 25 年春招
-- 刷 Leetcode
-- 学习前端知识
+- 
+- 准备毕业
+- 学习新知识
 
 ### Portfolio 📚
 
