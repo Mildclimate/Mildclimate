@@ -9,12 +9,11 @@
 
 <img align="right" src="https://i.imgur.com/IyjFcq1.png" width="100px">
 
-<img align="right" alt="me" src="https://github.com/Mildclimate/Mildclimate/blob/main/static/tianTan.jpg" width="400px" height="auto" />
+<img align="right" alt="author" src="./static/tianTan.jpg" width="400px" height="auto" />
 
 ### Things I am currently working on 🌱
 
-- [Boheng 的简历](./profile.md "简历") :o:
-- 
+- [个人简历](./profile.md "简历")
 - 准备毕业
 - 学习新知识
 
@@ -42,8 +41,8 @@
 
 #### Components:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mildclimate&layout=compact)](https://github.com/Mildclimate/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mildclimate&layout=compact)
 
-![Mildclimate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mildclimate&show_icons=true&theme=tokyonight)
+![Boheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mildclimate&show_icons=true&theme=tokyonight)
 
 <img src="https://imgur.com/rilHVxA.png"/>
