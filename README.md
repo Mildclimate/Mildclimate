@@ -23,7 +23,7 @@
 - [About 动画制作](https://mildclimate.github.io/Mildclimate/pages/animation.html)
 - [About 日常思考](https://mildclimate.github.io/Mildclimate/pages/normal.html)
 
-### What I want to do next :thinking:
+### What I want to do next
 
 - 前端开发
 - 游戏与动画
