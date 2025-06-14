@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Boheng Xie! 🍊</h1>
+<h1 align="center">Hi, I'm Boheng Xie!</h1>
 
-### About Me :wave:
+### About Me
 
 <em>
 <h6>天大本科-智算学部动画专业</h6>
@@ -11,13 +11,13 @@
 
 <img align="right" alt="author" src="./static/tianTan.jpg" width="400px" height="auto" />
 
-### Things I am currently working on 🌱
+### Things I am currently working on
 
 - [个人简历](./profile.md "简历")
 - 准备毕业
 - 学习新知识
 
-### Portfolio 📚
+### Portfolio
 
 - [About 前端开发](https://mildclimate.github.io/Mildclimate/pages/softE.html)
 - [About 动画制作](https://mildclimate.github.io/Mildclimate/pages/animation.html)
@@ -25,9 +25,9 @@
 
 ### What I want to do next :thinking:
 
-- 前端开发 🖥️
-- 游戏与动画 🎮
-- 绘画 🎨
+- 前端开发
+- 游戏与动画
+- 绘画
 
 ---
 
